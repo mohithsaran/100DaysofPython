@@ -1,4 +1,4 @@
-#Day 5
+#Day5
 #Author:Mohith
 #Course:100Days of Python
 print('Day 5')
